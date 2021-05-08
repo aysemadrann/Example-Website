@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clock{
+    color: #1f717d;
+}
+.telephone{
+    color: #1f717d;
+}
+.header_color{
+    background-color: #37393c;
+}
+.navbar-nav{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.navbar-collapse li a{
+    color: black;
+}
+.slider_head h1{
+    position: absolute;
+    top: 280px;
+    left:150px;
+    font-size: 90px;
+}
+.carousel-item img{
+    position: relative;
+}
+.slider_text p{
+    position: absolute;
+    top: 400px;
+    left: 150px;
+    font-size: 20px;
+}
+.partner_back_color{
+    background-color: #0bcce4;
+    
+}
+.partner_location{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.read_more{
+    background-color: transparent;
+    text-align: center;
+    border: 1px solid gray;
+    height: 50px;
+    width: 130px;
+}
+.card_border{
+    border: none;
+}
+.color{
+    color: #4fd1e2;
+}
+.fa-bell_border{
+    border-bottom: 1px solid #4fd1e2;
+    width: 60px;
+}
+.card-body_backcolor{
+    background-color: #f6f6f6;
+}
+.icon_right{
+    color: #9daacc;
+}
+.learn_button{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 50px;
+    width: 130px;
+    background-color: #00bcd4;
+    border: none;
+    color: #fff;
+
+}
+.our_team{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align:left;
+}
+.our_background{
+    background-color: #eaeaea;
+}
+.our{
+    margin: 0;
+    padding: 0;
+}
+.portfolio_button{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 50px;
+    width: 130px;
+    background-color: #00bcd4;
+    border: none;
+    color: #fff;
+}
+.team_img{
+    width: 70px;
+    border-radius: 50%;
+    border: 1px solid gray;
+}
+.marc_team{
+    color: #7e95ac;
+}
+footer .contact{
+    background-color: #282a2c;
+}
+footer .head_footer{
+    color: #108190;
+}
+footer{
+    color: #6c6d6f;
+}
+footer .contact_social_media{
+    background-color: #232527;
+}
+footer .footer_border{
+    border: 1px solid #36383a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.social_media{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
